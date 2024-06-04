@@ -36,3 +36,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 "# E-commerce"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/MohammedAlsir/E-commerce.git git push -u origin main
 "# E-commerce" 
+
+
+
+![image](img/Readme/1.png)
+![image](img/Readme/2.png)
+![image](img/Readme/3.png)
