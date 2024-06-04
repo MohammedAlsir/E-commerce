@@ -39,6 +39,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 
-![image](img/Readme/1.png)
+![image](/blob/main/ForReadMe/mainPage.png)
 ![image](img/Readme/2.png)
 ![image](img/Readme/3.png)
