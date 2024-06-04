@@ -39,6 +39,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 
+![image](/ForReadMe/login.png)
 ![image](/ForReadMe/mainPage.png)
-![image](img/Readme/2.png)
-![image](img/Readme/3.png)
+![image](/ForReadMe/mainCart.png)
+![image](/ForReadMe/product.png)
+![image](/ForReadMe/detailsProduct.png)
+![image](/ForReadMe/cart.png)
+![image](/ForReadMe/pay.png)
